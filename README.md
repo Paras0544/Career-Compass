@@ -1,6 +1,6 @@
 # Career Compass: Career Intelligence Platform 🧭
 
-> **Development Status:** Currently optimizing API data-fetching routines and implementing SRE-focused health monitoring. Live deployment scheduled for Jan 19, 2026. 🚀
+> **Development Status:** Currently optimizing API data-fetching routines and implementing SRE-focused health monitoring. Live deployment currently taken down. 🚀
 
 ## 📌 Project Overview
 Career Compass is a data-centric career guidance platform developed to assist students in navigating the tech job market. It bridges the gap between raw job data and actionable insights using the MERN stack and modular REST APIs.
